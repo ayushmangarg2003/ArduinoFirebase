@@ -1,0 +1,17 @@
+{
+  "name": "abhiyantran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/parser-readline": "^12.0.0",
+    "firebase-admin": "^11.10.1",
+    "serialport": "^12.0.0"
+  }
+}
